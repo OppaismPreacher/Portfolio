@@ -6,8 +6,6 @@ image: /assets/images/projects/CellShaderBlender/toon_couch.png
 permalink: /projects/CellShaderBlender/
 status: done
 tags:
-  - game
-  - c++
   - blender
   - plugin
   - computer graphics
