@@ -18,9 +18,9 @@ Feel free to explore!
   <button data-filter="c++">C++</button>
   <button data-filter="python">Python</button>
   <button data-filter="UE5">UE5</button>
-  <button data-filter="blender">blender</button>
-  <button data-filter="team project">Team project</button>
-  <button data-filter="solo project">Solo project</button>
+  <button data-filter="blender">Blender</button>
+  <button data-filter="team project">Team Project</button>
+  <button data-filter="solo project">Solo Project</button>
 </div>
 
 <div class="project-grid">
@@ -29,7 +29,7 @@ Feel free to explore!
       <div class="project-status {{ project.status | downcase }}">
         {% if project.status == "done" %}
           <span class="dot"></span> Done
-        {% elsif project.status == "in progress" %}
+        {% elsif project.status == "in-progress" %}
           <span class="dot"></span> In Progress
         {% elsif project.status == "abandoned" %}
           <span class="dot"></span> Abandoned
