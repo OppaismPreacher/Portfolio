@@ -1,4 +1,3 @@
-<!-- _projects/project-1.md -->
 ---
 layout: project
 title: "Test project"
