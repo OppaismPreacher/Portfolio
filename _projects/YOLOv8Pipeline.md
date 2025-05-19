@@ -4,7 +4,7 @@ title: "Blender to YOLOv8 Object Detection Pipeline"
 description: "A Python pipeline that renders 3D objects in Blender, extracts bounding boxes, augments data, and trains a YOLOv8 model."
 image: /assets/images/projects/YOLOv8/legoDetect.png
 permalink: /projects/YOLOv8Pipeline/
-status: done
+status: in-progress
 tags:
   - computer graphics
   - computer vision
