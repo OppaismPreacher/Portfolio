@@ -92,6 +92,14 @@
   background-color: #f2c744;
 }
 
+.project-status.prototype .dot {
+  background-color: #5fa9ff; /* blue-ish */
+}
+
+.project-status.abandoned .dot {
+  background-color: #999; /* muted gray */
+}
+
 .project-status .dot {
   display: inline-block;
   width: 10px;
