@@ -11,14 +11,14 @@ Feel free to explore!
 
 <div class="project-grid">
   {% for project in site.projects %}
-    <div class="project-status {{ project.status | downcase }}">
-    {% if project.status == "done" %}
-      <span class="dot"></span> Done
-    {% elsif project.status == "in progress" %}
-      <span class="dot"></span> In Progress
-    {% endif %}
-  </div>
     <div class="project-card">
+      <div class="project-status {{ project.status | downcase }}">
+        {% if project.status == "done" %}
+          <span class="dot"></span> Done
+        {% elsif project.status == "in progress" %}
+          <span class="dot"></span> In Progress
+        {% endif %}
+      </div>
       <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
       <h3>{{ project.title }}</h3>
       <p>{{ project.description }}</p>
