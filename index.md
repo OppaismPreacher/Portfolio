@@ -16,7 +16,7 @@ Hello! My name is **Dominik Beneš** — I’m a developer, designer, and maker 
 - C# (Intermediate)
 
 **Software & Tools**
-- Unreal Engine
+- Unreal Engine, Unity
 - Blender
 - GIMP / Photoshop
 
@@ -32,6 +32,11 @@ I’m continually expanding my knowledge across different areas of computer scie
 - **Game Development**
 - **Computer Graphics**
 - **Computer Vision**
+
+At the same time, I am open to and eager to explore other domains such as:
+- **Software Engineering**
+- **Databases**
+- **Android and Web Applications**
 
 I aim to grow as a versatile and creative engineer, capable of building impactful and visually engaging digital experiences.
 
