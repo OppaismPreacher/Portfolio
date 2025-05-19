@@ -2,8 +2,8 @@
 layout: project
 title: "Test project"
 description: "A test project"
-image: /assets/images/testProject.png
-permalink: /projects/testProject/testProject/
+image: /assets/images/projects/testProject.png
+permalink: /projects/testProject/
 ---
 
 ## Inventory System
