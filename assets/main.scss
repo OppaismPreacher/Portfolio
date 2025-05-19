@@ -75,6 +75,7 @@
 }
 
 .project-card {
+  display: block;
   position: relative;
   background: #fff;
   border: 1px solid #ddd;
@@ -127,4 +128,25 @@
 
 .project-card .button:hover {
   background: #005b99;
+}
+
+.filter-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.filter-buttons button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: #eee;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.filter-buttons button.active {
+  background-color: #007acc;
+  color: white;
 }

@@ -13,8 +13,8 @@ Feel free to explore!
   <button data-filter="all" class="active">All</button>
   <button data-filter="game">Games</button>
   <button data-filter="plugin">Plugins</button>
-  <button data-filter="computer graphics">Graphics</button>
-  <button data-filter="computer vision">Vision</button>
+  <button data-filter="computer graphics">Computer Graphics</button>
+  <button data-filter="computer vision">Computer Vision</button>
   <button data-filter="c++">C++</button>
   <button data-filter="python">Python</button>
   <button data-filter="UE5">UE5</button>
@@ -25,7 +25,7 @@ Feel free to explore!
 
 <div class="project-grid">
   {% for project in site.projects %}
-    <div class="project-card">
+    <div class="project-card" data-tags="{{ project.tags | join: ',' }}">
       <div class="project-status {{ project.status | downcase }}">
         {% if project.status == "done" %}
           <span class="dot"></span> Done
@@ -44,3 +44,25 @@ Feel free to explore!
     </div>
   {% endfor %}
 </div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const buttons = document.querySelectorAll(".filter-buttons button");
+  const cards = document.querySelectorAll(".project-card");
+
+  buttons.forEach(button => {
+    button.addEventListener("click", () => {
+      // Update button styles
+      buttons.forEach(btn => btn.classList.remove("active"));
+      button.classList.add("active");
+
+      const filter = button.getAttribute("data-filter");
+      cards.forEach(card => {
+        const tags = card.getAttribute("data-tags").split(",");
+        const matches = tags.includes(filter) || filter === "all";
+        card.style.display = matches ? "block" : "none";
+      });
+    });
+  });
+});
+</script>
