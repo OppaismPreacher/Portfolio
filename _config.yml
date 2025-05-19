@@ -2,8 +2,14 @@ title: My Portfolio
 description: My projects and work
 theme: minima
 
+sass:
+  style: compressed
+
 header_pages:
   - index.md
   - about.md
   - projects.md
   - contact.md
+
+minima:
+  skin: classic
