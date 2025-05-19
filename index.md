@@ -12,13 +12,13 @@ I'm currently a third-year student at **CTU FIT** (Czech Technical University, F
 
 Feel free to explore the site and learn more about what I do:
 
-- 👉 [About Me](Portfolio/about/)  
+- 👉 [About Me](about/)  
   Learn more about my background, skills, and goals.
 
-- 🛠️ [Projects](Portfolio/projects/)  
+- 🛠️ [Projects](projects/)  
   See some of the work I’ve done and what I’m currently building.
 
-- 📬 [Contact](Portfolio/contact/)  
+- 📬 [Contact](contact/)  
   Want to get in touch? Reach out via email or other channels.
 
 Thanks for visiting!
