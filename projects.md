@@ -17,6 +17,10 @@ Feel free to explore!
           <span class="dot"></span> Done
         {% elsif project.status == "in progress" %}
           <span class="dot"></span> In Progress
+        {% elsif project.status == "abandoned" %}
+          <span class="dot"></span> Abandoned
+        {% elsif project.status == "prototype" %}
+          <span class="dot"></span> Prototype
         {% endif %}
       </div>
       <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
