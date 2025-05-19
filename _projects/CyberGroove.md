@@ -5,6 +5,7 @@ description: "A Python rhythm game inspired by games like Muse Dash or Piano Til
 image: /assets/images/projects/CyberGroove/MainMenu.png
 permalink: /projects/CyberGroove/
 status: done
+priority: 500
 tags:
   - game
   - python

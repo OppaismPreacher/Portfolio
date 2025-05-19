@@ -26,7 +26,8 @@ Feel free to explore!
 </div>
 
 <div class="project-grid">
-  {% for project in site.projects %}
+  {% assign sorted_projects = site.projects | sort: "priority" | reverse %}
+  {% for project in sorted_projects %}
     <div class="project-card" data-tags="{{ project.tags | join: ',' }}">
       <div class="project-status {{ project.status | downcase }}">
         {% if project.status == "done" %}

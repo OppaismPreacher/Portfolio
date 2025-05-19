@@ -5,6 +5,7 @@ description: "A Blender plugin for quick creation of stylized cell-shaded materi
 image: /assets/images/projects/CellShaderBlender/toon_couch.png
 permalink: /projects/CellShaderBlender/
 status: done
+priority: 400
 tags:
   - python
   - blender

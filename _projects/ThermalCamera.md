@@ -5,6 +5,7 @@ description: "Image processing pipeline for thermal cameras: alignment, segmenta
 image: /assets/images/projects/ThermalCamera/OverlayedImage.png
 permalink: /projects/ThermalCamera/
 status: done
+priority: 300
 tags:
   - computer vision
   - python

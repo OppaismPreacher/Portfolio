@@ -5,6 +5,7 @@ description: "A Krita plugin for customizable Canny edge detection with support 
 image: /assets/images/projects/CannyEdgeDetection/CannyDetection.png
 permalink: /projects/Canny/
 status: done
+priority: 400
 tags:
   - plugin
   - python

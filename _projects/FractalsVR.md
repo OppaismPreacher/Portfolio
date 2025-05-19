@@ -5,6 +5,7 @@ description: "A VR fractal viewer combining Blender geometry nodes with interact
 image: /assets/images/projects/FractalVR/Mandelbrot.png
 permalink: /projects/FractalsVR/
 status: done
+priority: 500
 tags:
   - blender
   - UE5

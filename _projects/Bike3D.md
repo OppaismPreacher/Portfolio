@@ -5,6 +5,7 @@ description: "A fully modeled and textured 3D tandem bike rendered in a custom B
 image: /assets/images/projects/bike/Bike3D.jpg
 permalink: /projects/Bike3D/
 status: done
+priority: 100
 tags:
   - blender
   - computer graphics

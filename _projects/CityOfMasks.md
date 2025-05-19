@@ -5,6 +5,7 @@ description: "A UE5 detective game with time loops, fingerprint analysis, NPC sc
 image: /assets/images/projects/CityOfMasks/MainMenu.png
 permalink: /projects/CityOfMasks/
 status: done
+priority: 500
 tags:
   - game
   - c++
