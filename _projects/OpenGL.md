@@ -4,6 +4,7 @@ title: "Toon Dungeon — Procedural OpenGL Dungeon in C++"
 description: "A C++/OpenGL procedural dungeon with toon shading, custom physics, dynamic fractals, and multi-mode camera."
 image: /assets/images/projects/OpenGL/openGL.png
 permalink: /projects/OpenGL/
+status: done
 ---
 
 Toon Dungeon is a procedurally generated 3D dungeon experience built entirely from scratch in C++ using OpenGL. Designed as a tech demo and experimental rendering engine, it features a rich set of systems including procedural generation, custom shaders, and advanced camera controls.

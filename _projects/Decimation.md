@@ -4,6 +4,7 @@ title: "Quadrics Decimation Plugin for Blender"
 description: "A Blender plugin implementing quadric mesh decimation with full control over detail, edge preservation, and topology."
 image: /assets/images/projects/decimation/decimationDog.png
 permalink: /projects/Decimation/
+status: done
 ---
 
 This Blender plugin implements a custom quadratic decimation algorithm to reduce the number of faces in 3D models while preserving their overall shape and detail. It was developed from scratch in Python and offers a set of fine-tuned controls that allow artists to optimize their geometry interactively inside Blender.

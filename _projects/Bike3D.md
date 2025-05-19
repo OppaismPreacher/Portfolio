@@ -4,6 +4,7 @@ title: "3D Tandem Bike Scene in Blender"
 description: "A fully modeled and textured 3D tandem bike rendered in a custom Blender scene."
 image: /assets/images/projects/bike/Bike3D.jpg
 permalink: /projects/Bike3D/
+status: done
 ---
 
 This project involved creating a fully modeled 3D tandem bicycle and placing it within a custom-built scene. The work was done as part of a course focused on 3D modeling and rendering, using Blender as the primary tool.

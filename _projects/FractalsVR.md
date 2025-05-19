@@ -4,6 +4,7 @@ title: "VR Fractal Viewer (Unreal Engine 5 + Blender)"
 description: "A VR fractal viewer combining Blender geometry nodes with interactive scanning in UE5."
 image: /assets/images/projects/FractalVR/Mandelbrot.png
 permalink: /projects/FractalsVR/
+status: done
 ---
 
 This project is a virtual reality exploration experience built in Unreal Engine 5, designed as an interactive fractal viewer. It allows the player to walk through a virtual space and interact with procedurally generated 3D fractals created in Blender using Geometry Nodes.

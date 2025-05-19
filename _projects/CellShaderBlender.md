@@ -4,6 +4,7 @@ title: "Cell Shader Plugin for Blender (Toon Shader)"
 description: "A Blender plugin for quick creation of stylized cell-shaded materials with outlines using EEVEE and Grease Pencil."
 image: /assets/images/projects/CellShaderBlender/toon_couch.png
 permalink: /projects/CellShaderBlender/
+status: done
 ---
 
 This plugin enables quick and easy creation of cell-shaded (toon-style) materials in Blender. Designed for EEVEE, it automates the setup of stylized materials and outlines to create a hand-drawn, comic-book-like aesthetic.

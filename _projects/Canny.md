@@ -4,6 +4,7 @@ title: "Canny Edge Detection Plugin for Krita"
 description: "A Krita plugin for customizable Canny edge detection with support for Sobel, Prewitt, and Scharr filters."
 image: /assets/images/projects/CannyEdgeDetection/CannyDetection.png
 permalink: /projects/Canny/
+status: done
 ---
 
 This project is a custom plugin for Krita, developed to implement the Canny edge detection algorithm for stylizing and analyzing images. It allows digital artists and designers to apply detailed edge detection on drawings or photos directly within Krita’s UI, using a clean and user-friendly interface.
