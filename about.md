@@ -4,8 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-# About me
-
 Hello! My name is **Dominik Beneš** — I’m a developer, designer, and maker with a passion for technology and creative problem-solving. I'm currently a third-year student at **CTU FIT** (Czech Technical University, Faculty of Information Technology).
 
 ## 🛠️ Technical Skills
