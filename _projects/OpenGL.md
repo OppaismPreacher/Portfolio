@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Toon Dungeon — Procedural OpenGL Dungeon in C++"
-description: "A C++/OpenGL procedural dungeon with toon shading, custom physics, dynamic fractals, and multi-mode camera.""
+description: "A C++/OpenGL procedural dungeon with toon shading, custom physics, dynamic fractals, and multi-mode camera."
 image: /assets/images/projects/OpenGL/openGL.png
 permalink: /projects/OpenGL/
 ---
