@@ -5,7 +5,7 @@ permalink: /projects/
 ---
 
 Welcome to my project showcase.  
-This is a collection of personal, academic, and experimental projects that reflect my work in game development, computer graphics, computer vision, and other areas of software engineering. Each project includes a brief overview, an image preview, and a link to learn more about its development and purpose.
+This is a collection of personal, academic, and experimental projects that reflect my work in game development, computer graphics, computer vision, and other areas of software engineering.
 
 Feel free to explore!
 
@@ -15,7 +15,7 @@ Feel free to explore!
       <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
       <h3>{{ project.title }}</h3>
       <p>{{ project.description }}</p>
-      <a class="button" href="{{ project.url }}">Learn More</a>
+      <a class="button" href="{{ project.url | relative_url }}">Learn More</a>
     </div>
   {% endfor %}
 </div>
