@@ -28,18 +28,20 @@ Hello! My name is **Dominik Beneš** — I’m a developer, designer, and maker 
 
 ## 🎯 Interests & Goals
 
-I’m continually expanding my knowledge across different areas of computer science. My main areas of interest are:
+My main areas of interest are:
 - **Game Development**
 - **Computer Graphics**
 - **Computer Vision**
 
-At the same time, I am open to and eager to explore other domains such as:
+These are the fields where I feel most creative and motivated, and where I focus much of my personal learning and project work.
+
+Alongside these, I’ve also gained hands-on experience through university courses and projects in areas such as:
+- **Data Analytics**
 - **Software Engineering**
 - **Databases**
-- **Android and Web Applications**
+- **Web and Android Application Development**
 
-I aim to grow as a versatile and creative engineer, capable of building impactful and visually engaging digital experiences.
-
+I enjoy exploring new technologies and aim to grow as a versatile developer capable of solving complex problems and creating impactful solutions across different domains.
 
 ## Projects
 
