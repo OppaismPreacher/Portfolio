@@ -11,7 +11,7 @@ permalink: /projects/
 <div class="project-grid">
   {% for project in site.projects %}
     <div class="project-card">
-      <img src="{{ project.image }}" alt="{{ project.title }}" />
+      <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
       <h3>{{ project.title }}</h3>
       <p>Image path: {{ project.image }}</p>
       <p>{{ project.description }}</p>
