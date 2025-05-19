@@ -11,5 +11,10 @@ header_pages:
   - projects.md
   - contact.md
 
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
 minima:
   skin: classic

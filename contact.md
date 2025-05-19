@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-## Contact
+# Contact
 
 Contact me at [domben2003@gmail.com](mailto:domben2003@gmail.com)
