@@ -7,7 +7,7 @@ permalink: /projects/FractalsVR/
 status: done
 tags:
   - blender
-  - uE5
+  - UE5
   - computer graphics
   - solo project
 ---

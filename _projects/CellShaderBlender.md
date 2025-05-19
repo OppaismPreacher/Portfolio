@@ -6,6 +6,7 @@ image: /assets/images/projects/CellShaderBlender/toon_couch.png
 permalink: /projects/CellShaderBlender/
 status: done
 tags:
+  - python
   - blender
   - plugin
   - computer graphics
