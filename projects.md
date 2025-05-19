@@ -55,8 +55,8 @@ document.addEventListener("DOMContentLoaded", function () {
   toggleBtn.addEventListener("click", () => {
     filterPanel.classList.toggle("hidden");
     toggleBtn.textContent = filterPanel.classList.contains("hidden")
-      ? "Filter by Tag ▾"
-      : "Filter by Tag ▴";
+      ? "Filter Projects ▾"
+      : "Filter Projects ▴";
   });
 
   const buttons = filterPanel.querySelectorAll("button");
