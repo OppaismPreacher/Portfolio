@@ -4,7 +4,11 @@ title: "CyberGroove — Python Rhythm Game"
 description: "A Python rhythm game inspired by games like Muse Dash or Piano Tiles."
 image: /assets/images/projects/CyberGroove/MainMenu.png
 permalink: /projects/CyberGroove/
-status: abandoned
+status: done
+tags:
+  - game
+  - python
+  - solo project
 ---
 
 CyberGroove is a rhythm-based game developed in Python using the Pyglet library, created as a semester project. Originally inspired by games like Muse Dash and Piano Tiles, the game evolved into a simplified yet engaging system due to the limitations of working with 2D animations and Python at the time.

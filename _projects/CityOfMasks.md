@@ -4,7 +4,12 @@ title: "City of Masks — Detective Time Loop Game (UE5)"
 description: "A UE5 detective game with time loops, fingerprint analysis, NPC schedules, and a custom clue board system."
 image: /assets/images/projects/CityOfMasks/MainMenu.png
 permalink: /projects/CityOfMasks/
-status: prototype
+status: done
+tags:
+  - game
+  - c++
+  - UE5
+  - team project
 ---
 
 City of Masks is a narrative-driven third-person detective game developed in Unreal Engine 5 as a semester group project by a team of five. The player takes on the role of a masked detective investigating a bomb threat in a stylized city where everyone wears a mask — but only some masks matter.

@@ -5,6 +5,13 @@ description: "A Blender plugin for quick creation of stylized cell-shaded materi
 image: /assets/images/projects/CellShaderBlender/toon_couch.png
 permalink: /projects/CellShaderBlender/
 status: done
+tags:
+  - game
+  - c++
+  - blender
+  - plugin
+  - computer graphics
+  - solo project
 ---
 
 This plugin enables quick and easy creation of cell-shaded (toon-style) materials in Blender. Designed for EEVEE, it automates the setup of stylized materials and outlines to create a hand-drawn, comic-book-like aesthetic.

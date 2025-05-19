@@ -9,6 +9,20 @@ This is a collection of personal, academic, and experimental projects that refle
 
 Feel free to explore!
 
+<div class="filter-buttons">
+  <button data-filter="all" class="active">All</button>
+  <button data-filter="game">Games</button>
+  <button data-filter="plugin">Plugins</button>
+  <button data-filter="computer graphics">Graphics</button>
+  <button data-filter="computer vision">Vision</button>
+  <button data-filter="c++">C++</button>
+  <button data-filter="python">Python</button>
+  <button data-filter="UE5">UE5</button>
+  <button data-filter="blender">blender</button>
+  <button data-filter="team project">Team project</button>
+  <button data-filter="solo project">Solo project</button>
+</div>
+
 <div class="project-grid">
   {% for project in site.projects %}
     <div class="project-card">

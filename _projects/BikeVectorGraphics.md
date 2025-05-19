@@ -5,6 +5,9 @@ description: "A tandem bike illustration created using multiple vectorization te
 image: /assets/images/projects/bike/bike.svg
 permalink: /projects/BikeVectorGraphics/
 status: done
+tags:
+  - computer graphics
+  - solo project
 ---
 
 This project was created as part of a university course on vector graphics. The goal was to design and assemble a complete image using a variety of vectorization techniques.
