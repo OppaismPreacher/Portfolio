@@ -6,6 +6,8 @@ permalink: /projects/
 
 # Projects
 
+![Test Image](/assets/images/projects/testProject.png)
+
 <div class="project-grid">
   {% for project in site.projects %}
     <div class="project-card">
