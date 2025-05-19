@@ -5,6 +5,7 @@ description: "A Python pipeline that renders 3D objects in Blender, extracts bou
 image: /assets/images/projects/YOLOv8/legoDetect.png
 permalink: /projects/YOLOv8Pipeline/
 status: in-progress
+priority: 300
 tags:
   - computer graphics
   - computer vision

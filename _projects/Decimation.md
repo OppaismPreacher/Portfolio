@@ -5,6 +5,7 @@ description: "A Blender plugin implementing quadric mesh decimation with full co
 image: /assets/images/projects/decimation/decimationDog.png
 permalink: /projects/Decimation/
 status: done
+priority: 400
 tags:
   - plugin
   - blender
