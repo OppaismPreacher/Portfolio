@@ -10,16 +10,18 @@ Hi! I'm **Dominik Beneš** — a developer, designer, and maker based in the Cze
 
 Feel free to explore the site and learn more about me and what I do:
 <div class="section-card">
-<h2>👉 [About Me](about/)</h2>
-<p>Learn more about my background, skills, and goals.</p>
+  <h2>👉 <a href="about/">About Me</a></h2>
+  <p>Learn more about my background, skills, and goals.</p>
 </div>
+
 <div class="section-card">
-<h2>🛠️ [Projects](projects/)</h2> 
-<p>See some of the work I’ve done and what I’m currently building.</p>
+  <h2>🛠️ <a href="projects/">Projects</a></h2> 
+  <p>See some of the work I’ve done and what I’m currently building.</p>
 </div>
+
 <div class="section-card">
-<h2>📬 [Contact](contact/)</h2> 
-<p>Want to get in touch? Reach out via email or other channels.</p>
+  <h2>📬 <a href="contact/">Contact</a></h2> 
+  <p>Want to get in touch? Reach out via email or other channels.</p>
 </div>
 
 
