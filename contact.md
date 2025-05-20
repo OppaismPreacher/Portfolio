@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 <div class="contact-card">
-  <img src="/assets/images/profile.jpg" alt="Dominik Beneš" class="contact-photo">
+  <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Dominik Beneš" class="contact-photo">
 
   <div class="contact-info">
     <h2>Dominik Beneš</h2>
