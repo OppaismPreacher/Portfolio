@@ -10,17 +10,17 @@ Hi! I'm **Dominik Beneš** — a developer, designer, and maker based in the Cze
 
 Feel free to explore the site and learn more about me and what I do:
 
-<a href="about/" class="section-card-link">
-  <div class="section-card with-icon">
-    <div class="card-text">
-      <h2>About Me</h2>
-      <p>Learn more about my background, skills, and goals.</p>
-    </div>
-      <div class="card-icon">
-        <img src="{{ '/assets/images/Icons/user.svg' | relative_url }}" alt="About Icon">
-      </div>
+
+<a href="about/" class="section-card with-icon">
+  <div class="card-text">
+    <h2>About Me</h2>
+    <p>Learn more about my background, skills, and goals.</p>
   </div>
+    <div class="card-icon">
+      <img src="{{ '/assets/images/Icons/user.svg' | relative_url }}" alt="About Icon">
+    </div>
 </a>
+
 
 <a href="projects/" class="section-card-link">
   <div class="section-card with-icon">
@@ -43,14 +43,6 @@ Feel free to explore the site and learn more about me and what I do:
       <div class="card-icon">
         <img src="{{ '/assets/images/Icons/envelope.svg' | relative_url }}" alt="About Icon">
       </div>
-  </div>
-</a>
-
-
-<a href="contact/" class="section-card-link">
-  <div class="section-card">
-    <h2>Contact</h2>
-    <p>Want to get in touch? Reach out via email or other channels.</p>
   </div>
 </a>
 
