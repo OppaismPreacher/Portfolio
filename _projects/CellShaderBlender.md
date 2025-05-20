@@ -34,6 +34,15 @@ Under the Hood:
 
 This project was an exploration of shader node manipulation, real-time render stylization, and UI scripting in Blender.
 
+## Video
+
+<div class="project-trailer">
+  <video class="gallery-video" controls>
+    <source src="{{ '/assets/videos/CellShader/CellshaderVideo.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Gallery
 
 <div class="project-gallery">

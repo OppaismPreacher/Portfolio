@@ -33,6 +33,15 @@ Technical Highlights:
 
 This plugin was a deep dive into mesh optimization algorithms, 3D geometry processing, and Blender scripting.
 
+## Video
+
+<div class="project-trailer">
+  <video class="gallery-video" controls>
+    <source src="{{ '/assets/videos/Decimation/DecimationVideo.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Gallery
 
 <div class="project-gallery">

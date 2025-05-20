@@ -38,6 +38,15 @@ Technical Notes:
 
 This plugin was built as part of a graphics programming course and deepened my understanding of image processing algorithms, convolution operations, and UI integration in creative software.
 
+## Video
+
+<div class="project-trailer">
+  <video class="gallery-video" controls>
+    <source src="{{ '/assets/videos/Canny/CannyVideo.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 ## Gallery
 
 <div class="project-gallery">
