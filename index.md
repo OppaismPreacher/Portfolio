@@ -11,7 +11,7 @@ Hi! I'm **Dominik Beneš** — a developer, designer, and maker based in the Cze
 Feel free to explore the site and learn more about me and what I do:
 
 <a href="about/" class="section-card-link">
-  <div class="section-card">
+  <div class="section-card with-icon">
     <div class="card-text">
       <h2>About Me</h2>
       <p>Learn more about my background, skills, and goals.</p>
