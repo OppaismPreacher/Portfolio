@@ -14,6 +14,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Lego Brick Detection" class="project-hero">
+
 This project is a Python-based pipeline that automates the process of generating training data from 3D models rendered in Blender and trains a YOLOv8 object detection model using the resulting synthetic dataset. It eliminates the need for manual annotation by calculating bounding boxes programmatically and supports optional data augmentation.
 
 Workflow Overview:

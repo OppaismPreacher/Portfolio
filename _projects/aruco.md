@@ -12,6 +12,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="AR projection" class="project-hero">
+
 This project demonstrates an augmented reality system using ArUco markers to estimate camera pose and overlay 3D models on physical markers in video frames. The pipeline involves:
 - Detecting ArUco markers using OpenCV.
 - Estimating the camera’s position and orientation relative to each marker.

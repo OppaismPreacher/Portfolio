@@ -14,6 +14,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Decimation Dogs" class="project-hero">
+
 This Blender plugin implements a custom quadratic decimation algorithm to reduce the number of faces in 3D models while preserving their overall shape and detail. It was developed from scratch in Python and offers a set of fine-tuned controls that allow artists to optimize their geometry interactively inside Blender.
 
 Features:

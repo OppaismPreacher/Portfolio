@@ -13,6 +13,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Fractal" class="project-hero">
+
 This project is a virtual reality exploration experience built in Unreal Engine 5, designed as an interactive fractal viewer. It allows the player to walk through a virtual space and interact with procedurally generated 3D fractals created in Blender using Geometry Nodes.
 
 The VR scene takes place in a simple, darkened room, where the player can:

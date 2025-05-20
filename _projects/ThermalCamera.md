@@ -12,6 +12,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Pi temperature" class="project-hero">
+
 This project involved analyzing and enhancing thermal data from a thermographic sensor by aligning it with RGB images, extracting temperature data, segmenting hot regions, and calculating the surface area of heat-emitting components.
 
 The workflow combines real thermal camera data with RGB imagery, using Python and OpenCV to normalize, map, and overlay data in a meaningful visual format.

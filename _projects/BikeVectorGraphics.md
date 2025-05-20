@@ -11,6 +11,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="vector bike" class="project-hero">
+
 This project was created as part of a university course on vector graphics. The goal was to design and assemble a complete image using a variety of vectorization techniques.
 
 The main subject of the piece is a tandem bicycle, with each part of the bike colored separately to highlight the structure and segmentation. The image was constructed using a combination of the following techniques:

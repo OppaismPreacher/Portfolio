@@ -14,6 +14,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Cell Shader Couch" class="project-hero">
+
 This plugin enables quick and easy creation of cell-shaded (toon-style) materials in Blender. Designed for EEVEE, it automates the setup of stylized materials and outlines to create a hand-drawn, comic-book-like aesthetic.
 
 Ideal for creating stylized renders, the plugin uses custom node groups and Grease Pencil modifiers to apply shadows and outlines in a fully non-destructive way.

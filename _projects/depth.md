@@ -11,6 +11,7 @@ tags:
   - computer vision
   - solo project
 ---
+<img src="{{ page.image | relative_url }}" alt="Depth Camera Segmentation" class="project-hero">
 
 This project focused on extracting human body measurements from a depth map and skeleton metadata captured with a Kinect depth camera. The goal was to estimate the subject’s height, limb dimensions, body mass, and BMI using computer vision techniques and a predefined body model.
 

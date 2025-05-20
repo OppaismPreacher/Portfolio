@@ -13,6 +13,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Dungeon Generator 3D" class="project-hero">
+
 This plugin builds on the ideas of my earlier 2D dungeon generator, expanding it into three dimensions with full vertical connectivity and customizable modular design. Created as a plugin for Unreal Engine, the system allows users to build complex, interconnected dungeon layouts using a graph-based generation system.
 
 The generator supports both horizontal and vertical level construction using pre-made room and hallway assets, with full control over room shapes, doorway positions, and vertical transitions.

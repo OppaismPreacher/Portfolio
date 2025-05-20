@@ -13,6 +13,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Edge detection canny" class="project-hero">
+
 This project is a custom plugin for Krita, developed to implement the Canny edge detection algorithm for stylizing and analyzing images. It allows digital artists and designers to apply detailed edge detection on drawings or photos directly within Krita’s UI, using a clean and user-friendly interface.
 
 The plugin integrates seamlessly into Krita under the Tools > Scripts menu. When launched, it opens a control panel where users can fine-tune detection parameters such as thresholds, kernel size, blur intensity, and the gradient calculation method.

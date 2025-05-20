@@ -13,6 +13,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Dungeon Generator 2D" class="project-hero">
+
 This Unreal Engine plugin generates procedurally built 2D dungeon layouts by placing and connecting rooms using a combination of computational geometry and pathfinding algorithms. Designed for flat (non-elevated) dungeon maps, it creates navigable, non-linear environments suitable for roguelikes or exploration-based games.
 
 The generation process is entirely algorithmic and extensible, allowing for custom control over room density, spacing, and connectivity.

@@ -14,6 +14,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="C++ Python UE5" class="project-hero">
+
 This project is a plugin designed to enable the execution of Python scripts at runtime from C++ within Unreal Engine. The system leverages pybind11 to create a bridge between native C++ code and the Python runtime, enabling dynamic interaction between the two languages.
 
 While not yet implemented inside Unreal directly, the core functionality was successfully tested in standalone C++. The long-term goal is to integrate this into Unreal Engine 5 as a plugin, allowing dynamic scripting within the game environment.

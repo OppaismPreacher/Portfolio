@@ -12,6 +12,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Cyber Groove Menu" class="project-hero">
+
 CyberGroove is a rhythm-based game developed in Python using the Pyglet library, created as a semester project. Originally inspired by games like Muse Dash and Piano Tiles, the game evolved into a simplified yet engaging system due to the limitations of working with 2D animations and Python at the time.
 
 The game challenges players to hit notes moving from right to left across three lanes, timing their inputs precisely as the notes cross a white line. Scoring is based on timing accuracy, and missing notes results in point loss or life deduction. Players start with 3 lives, which can regenerate based on performance.

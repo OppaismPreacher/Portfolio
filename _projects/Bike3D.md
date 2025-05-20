@@ -12,6 +12,7 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="3D bike" class="project-hero">
 
 This project involved creating a fully modeled 3D tandem bicycle and placing it within a custom-built scene. The work was done as part of a course focused on 3D modeling and rendering, using Blender as the primary tool.
 

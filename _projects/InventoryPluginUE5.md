@@ -13,6 +13,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Inventory System Screenshot" class="project-hero">
+
 This project is a modular, extensible inventory system plugin for Unreal Engine 5. Designed to be lightweight yet powerful, it provides a flexible structure for item management, storage containers, and automatic state saving — all through customizable components and templates.
 
 The system is fully integrated into UE5's Blueprint system, allowing users to create unique item behaviors and inventory types with minimal setup.

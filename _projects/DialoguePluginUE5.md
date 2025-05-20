@@ -13,6 +13,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Dialogue system" class="project-hero">
+
 This project is a fully custom node-based dialogue system for Unreal Engine 5, built from the ground up to support complex branching conversations, player input, and in-game consequences. The system is designed as a reusable custom asset type with a dedicated graph editor UI, allowing writers and designers to visually script dialogue logic without touching code.
 
 Dialogue graphs are assigned via a modular DialogueComponent, which can be attached to any character or object capable of interacting with the player.
