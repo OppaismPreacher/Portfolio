@@ -31,3 +31,12 @@ Key Features:
 - Simple level file format that supports parsing from text files
 
 While the code has some rough edges and most features are hardcoded, CyberGroove was a valuable experience in game logic, audio syncing, event-driven programming, and user interaction in Python. A future version would benefit from a level editor and a scalable song system.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/CyberGroove/MainMenu.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/CyberGroove/LevelScreen.png' | relative_url }}" alt="Scene 2">
+  <img src="{{ '/assets/images/projects/CyberGroove/gamePlay.png' | relative_url }}" alt="Scene 3">
+  <img src="{{ '/assets/images/projects/CyberGroove/WinScreen.png' | relative_url }}" alt="Scene 4">
+</div>

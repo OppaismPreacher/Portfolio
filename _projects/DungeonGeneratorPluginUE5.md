@@ -31,3 +31,9 @@ Algorithm Overview:
     - For each edge in the final graph, an A* path is calculated to carve corridors through the map grid between rooms.
 
 This project is abandoned, as I’ve moved on to a more advanced version — a fully procedural 3D dungeon generator with elevation, and vertical connectivity.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/dungeonGenerator/dungeon2D.png' | relative_url }}" alt="Scene 1">
+</div>

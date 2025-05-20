@@ -34,3 +34,9 @@ Key Features:
     - The system operates through a network of customizable Blueprint nodes, providing users with greater control and flexibility over the dungeon generation process.
 
 This project remains a prototype, as the custom 3D A* algorithm occasionally becomes unstable or gets stuck in edge cases. Despite these issues, the core system laid the foundation for a powerful and flexible dungeon generation tool that I may return to and refine in the future.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/dungeonGenerator/dungeon3D.png' | relative_url }}" alt="Scene 1">
+</div>

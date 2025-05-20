@@ -32,3 +32,10 @@ Technical Highlights:
 - Full triangulation and contraction-pair logic with priority queues
 
 This plugin was a deep dive into mesh optimization algorithms, 3D geometry processing, and Blender scripting.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/decimation/decimationDog.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/decimation/3D_decimation_pure.png' | relative_url }}" alt="Scene 2">
+</div>

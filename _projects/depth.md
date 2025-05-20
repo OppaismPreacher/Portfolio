@@ -34,3 +34,9 @@ Key Steps:
   - Derived the Body Mass Index (BMI) from the estimated height and weight.
 
 This project showcases practical applications of depth sensing, geometric analysis, and biomedical estimation using Python and OpenCV.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/depth/depth.png' | relative_url }}" alt="Scene 1">
+</div>

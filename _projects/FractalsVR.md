@@ -45,7 +45,7 @@ It serves more as an interactive tech art installation than a traditional game, 
 ### 3D Snow Flake
 <div class="project-gallery">
   <img src="{{ '/assets/images/projects/FractalVR/SnowFlake.png' | relative_url }}" alt="Scene 4">
-  <img src="{{ '/assets/images/projects/FractalVR/SnowFlake_GN.png' | relative_url }}" alt="Scene 5">
+  <img src="{{ '/assets/images/projects/FractalVR/Snowflake_GN.png' | relative_url }}" alt="Scene 5">
 </div>
 
 ### Menger sponge

@@ -47,3 +47,18 @@ Gameplay & Features:
 - Provided support with materials, textures, and model integration across the team
 
 This project combined investigative gameplay, narrative design, system programming, and teamwork, culminating in a technically complex and immersive experience.
+
+## Trailer
+
+<video class="gallery-video" controls>
+  <source src="/assets/videos/CityOfMasks/CityOfMasksTrailer.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/CityOfMasks/MainMenu.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/CityOfMasks/board.png' | relative_url }}" alt="Scene 2">
+  <img src="{{ '/assets/images/projects/CityOfMasks/factory.png' | relative_url }}" alt="Scene 3">
+</div>

@@ -43,3 +43,10 @@ System Highlights:
 - Easily extensible for future node types or localization
 
 This system enables the creation of nonlinear conversations, reactive narratives, and player-driven outcomes — making it ideal for RPGs, immersive sims, or story-rich adventure games.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/Dialogue/Dialogue.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/Dialogue/Dialogue2.png' | relative_url }}" alt="Scene 2">
+</div>
