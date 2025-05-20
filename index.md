@@ -17,7 +17,7 @@ Feel free to explore the site and learn more about me and what I do:
       <p>Learn more about my background, skills, and goals.</p>
     </div>
       <div class="card-icon">
-        <img src="/assets/images/Icons/user.svg" alt="About Icon">
+        <img src="{{/assets/images/Icons/user.svg | relative_url}}" alt="About Icon">
       </div>
   </div>
 </a>
