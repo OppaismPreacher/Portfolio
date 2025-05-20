@@ -41,8 +41,10 @@ Key Features:
     - Implemented NURBS-like curves for object paths.
     - Some in-game objects follow these curves dynamically which makes them look like they are walking through the dungeon.
 
+## Gallery
 
 <div class="project-gallery">
   <img src="{{ '/assets/images/projects/OpenGL/openGL.png' | relative_url }}" alt="Scene 1">
-  <img src="{{ '/assets/images/projects/OpenGL/openGL.png' | relative_url }}" alt="Scene 2">
+  <img src="{{ '/assets/images/projects/OpenGL/dungeon1.png' | relative_url }}" alt="Scene 2">
+  <img src="{{ '/assets/images/projects/OpenGL/dungeon2.png' | relative_url }}" alt="Scene 3">
 </div>

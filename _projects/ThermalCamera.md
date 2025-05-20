@@ -41,3 +41,12 @@ Technologies & Tools:
 - CSV-based temperature data with camera calibration
 
 This project bridges hardware data interpretation and image analysis, and demonstrates practical computer vision applications for diagnostics or inspection.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/ThermalCamera/OverlayerImage.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/ThermalCamera/thermo1.png' | relative_url }}" alt="Scene 2">
+  <img src="{{ '/assets/images/projects/ThermalCamera/thermo2.png' | relative_url }}" alt="Scene 3">
+  <img src="{{ '/assets/images/projects/ThermalCamera/thermo3.png' | relative_url }}" alt="Scene 4">
+</div>
