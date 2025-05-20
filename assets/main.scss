@@ -4,6 +4,24 @@
 @import "minima";
 
 // === Custom Styles ===
+:root {
+  --accent-color: #3b82f6; /* Soft blue */
+  --bg-color: #f9fafb;     /* Light background */
+  --text-color: #1f2937;   /* Dark gray for text */
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+a {
+  color: var(--accent-color);
+}
+
+h1, h2, h3 {
+  color: var(--accent-color);
+}
 
 /* Navigation Bar */
 .site-header {
