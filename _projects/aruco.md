@@ -2,7 +2,7 @@
 layout: page
 title: "ArUco Marker Augmented Reality Project"
 description: "An AR system that detects ArUco markers and projects 3D models onto them using OpenCV and Python."
-image: /assets/images/projects/aruco/AR.jpg
+image: /assets/images/projects/aruco/AR.png
 permalink: /projects/aruco/
 status: done
 priority: 300
