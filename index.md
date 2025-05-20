@@ -10,7 +10,6 @@ Hi! I'm **Dominik Beneš** — a developer, designer, and maker based in the Cze
 
 Feel free to explore the site and learn more about me and what I do:
 
-
 <a href="{{ '/about/' | relative_url }}" class="section-card with-icon">
   <div class="card-text">
     <h2>About Me</h2>
@@ -20,29 +19,22 @@ Feel free to explore the site and learn more about me and what I do:
     <img src="{{ '/assets/images/Icons/user.svg' | relative_url }}" alt="About Icon">
   </div>
 </a>
-
-
-<a href="projects/" class="section-card-link">
-  <div class="section-card with-icon">
-    <div class="card-text">
-      <h2>Projects</h2>
-      <p>See some of the work I’ve done and what I’m currently building.</p>
-    </div>
-      <div class="card-icon">
-        <img src="{{ '/assets/images/Icons/books.svg' | relative_url }}" alt="About Icon">
-      </div>
+<a href="{{ '/projects/' | relative_url }}" class="section-card with-icon">
+  <div class="card-text">
+    <h2>Projects</h2>
+    <p>See some of the work I’ve done and what I’m currently building.</p>
+  </div>
+  <div class="card-icon">
+    <img src="{{ '/assets/images/Icons/books.svg' | relative_url }}" alt="About Icon">
   </div>
 </a>
-
-<a href="about/" class="section-card-link">
-  <div class="section-card with-icon">
-    <div class="card-text">
-      <h2>Contact</h2>
-      <p>Want to get in touch? Reach out via email or other channels.</p>
-    </div>
-      <div class="card-icon">
-        <img src="{{ '/assets/images/Icons/envelope.svg' | relative_url }}" alt="About Icon">
-      </div>
+<a href="{{ '/contact/' | relative_url }}" class="section-card with-icon">
+  <div class="card-text">
+    <h2>Contact</h2>
+    <p>Want to get in touch? Reach out via email or other channels.</p>
+  </div>
+  <div class="card-icon">
+    <img src="{{ '/assets/images/Icons/envelope.svg' | relative_url }}" alt="About Icon">
   </div>
 </a>
 
