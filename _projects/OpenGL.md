@@ -13,6 +13,8 @@ tags:
   - solo project
 ---
 
+<img src="{{ page.image | relative_url }}" alt="Toon Dungeon Screenshot" class="project-hero">
+
 Toon Dungeon is a procedurally generated 3D dungeon experience built entirely from scratch in C++ using OpenGL. Designed as a tech demo and experimental rendering engine, it features a rich set of systems including procedural generation, custom shaders, and advanced camera controls.
 
 The project features a distinct toon shading style, giving the dungeon a stylized, hand-drawn aesthetic. Everything in the engine — from rendering and physics to interaction and generation — was built manually without the use of external game engines.
@@ -38,3 +40,9 @@ Key Features:
 - Curve systems
     - Implemented NURBS-like curves for object paths.
     - Some in-game objects follow these curves dynamically which makes them look like they are walking through the dungeon.
+
+
+<div class="project-gallery">
+  <img src="/assets/images/projects/OpenGL/openGL.png" alt="Scene 1">
+  <img src="/assets/images/projects/OpenGL/openGL.png" alt="Scene 2">
+</div>
