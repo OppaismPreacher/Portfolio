@@ -33,3 +33,9 @@ Under the Hood:
 - Compatible with multiple objects and reusable across scenes
 
 This project was an exploration of shader node manipulation, real-time render stylization, and UI scripting in Blender.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/CellShaderBlender/toon_couch.png' | relative_url }}" alt="Scene 1">
+</div>

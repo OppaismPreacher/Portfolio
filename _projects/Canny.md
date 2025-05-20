@@ -37,3 +37,10 @@ Technical Notes:
     5. Double thresholding and hysteresis to connect weak and strong edges
 
 This plugin was built as part of a graphics programming course and deepened my understanding of image processing algorithms, convolution operations, and UI integration in creative software.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/CannyEdgeDetection/CannyDetection.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/CannyEdgeDetection/Original.png' | relative_url }}" alt="Scene 2">
+</div>
