@@ -15,7 +15,7 @@ tags:
 
 <img src="{{ page.image | relative_url }}" alt="City Of Masks Menu" class="project-hero">
 
-City of Masks is a narrative-driven third-person detective game developed in Unreal Engine 5 as a semester group project by a team of five. The player takes on the role of a masked detective investigating a bomb threat in a stylized city where everyone wears a mask — but only some masks matter.
+City of Masks is a narrative-driven first-person detective game developed in Unreal Engine 5 as a semester group project by a team of five. The player takes on the role of a masked detective investigating a bomb threat in a stylized city where everyone wears a mask — but only some masks matter.
 
 To prevent the bombing, the player must uncover the name and fingerprint of the culprit before the day ends. If they fail, the bomb explodes — and the detective is transported back to the start of the day with all their knowledge intact. Through repeated loops, the player pieces together clues by talking to NPCs, collecting evidence, and connecting information in a unique, story-driven environment.
 
