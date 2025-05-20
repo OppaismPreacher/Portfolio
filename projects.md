@@ -20,8 +20,8 @@ Feel free to explore!
     <button data-filter="python">Python</button>
     <button data-filter="UE5">UE5</button>
     <button data-filter="blender">Blender</button>
-    <button data-filter="team project">Team Project</button>
-    <button data-filter="solo project">Solo Project</button>
+    <button data-filter="team project">Team Projects</button>
+    <button data-filter="solo project">Solo Projects</button>
   </div>
 </div>
 

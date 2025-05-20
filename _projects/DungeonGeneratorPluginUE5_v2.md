@@ -29,6 +29,6 @@ Key Features:
     - A minimum spanning tree is created to ensure connectivity.
     - A custom 3D A* implementation attempts to route valid hallway paths, using hallway tiles as weighted “steps” in the algorithm.
 5. Blueprit Node System
-    - The system works by combining different blueprint nodes which increases user controll over the generation.
+    - The system operates through a network of customizable Blueprint nodes, providing users with greater control and flexibility over the dungeon generation process.
 
 This project remains a prototype, as the custom 3D A* algorithm occasionally becomes unstable or gets stuck in edge cases. Despite these issues, the core system laid the foundation for a powerful and flexible dungeon generation tool that I may return to and refine in the future.
