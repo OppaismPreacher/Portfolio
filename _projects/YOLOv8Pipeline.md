@@ -46,7 +46,7 @@ This project demonstrates how to combine 3D rendering, automation, computer visi
 
 <div class="project-gallery">
   <img src="{{ '/assets/images/projects/YOLOv8/legoDetect.png' | relative_url }}" alt="Scene 1">
-  <img src="{{ '/assets/images/projects/YOLOv8/Renders.png' | relative_url }}" alt="Scene 2">
+  <img src="{{ '/assets/images/projects/YOLOv8/Render.png' | relative_url }}" alt="Scene 2">
   <img src="{{ '/assets/images/projects/YOLOv8/segmentation.png' | relative_url }}" alt="Scene 3">
   <img src="{{ '/assets/images/projects/YOLOv8/border.png' | relative_url }}" alt="Scene 4">
   <img src="{{ '/assets/images/projects/YOLOv8/noise.png' | relative_url }}" alt="Scene 5">
