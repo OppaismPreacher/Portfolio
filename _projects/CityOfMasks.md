@@ -50,10 +50,12 @@ This project combined investigative gameplay, narrative design, system programmi
 
 ## Trailer
 
-<video class="gallery-video" controls>
-  <source src="{{ '/assets/videos/CityOfMasks/CityOfMasksTrailer.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div class="project-trailer">
+  <video class="gallery-video" controls>
+    <source src="{{ '/assets/videos/CityOfMasks/CityOfMasksTrailer.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
 
 ## Gallery
 
