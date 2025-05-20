@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Procedural 3D Dungeon Generator (UE5 plugin)"
-description: "An Unreal plugin for generating 3D dungeons using 3D Delaunay triangulation, MSTs, and a custom A* pathfinding. algorithm"
+description: "An Unreal plugin for generating 3D dungeons using 3D Delaunay tetrahedralization, MSTs, and a custom A* pathfinding algorithm"
 image: /assets/images/projects/dungeonGenerator/dungeon3D.png
 permalink: /projects/DungeonGeneratorPluginUE5_v2/
 status: prototype

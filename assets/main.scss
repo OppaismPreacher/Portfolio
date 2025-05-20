@@ -295,6 +295,15 @@ ul {
   transform: scale(1.02);
 }
 
+.gallery-video {
+  width: 100%;
+  max-width: 720px;
+  margin: 1rem 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  display: block;
+}
+
 .project-trailer {
   display: flex;
   justify-content: center;
