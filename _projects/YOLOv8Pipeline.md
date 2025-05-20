@@ -42,6 +42,8 @@ Tools & Skills Used:
 
 This project demonstrates how to combine 3D rendering, automation, computer vision, and machine learning into an efficient data generation and training pipeline — ideal for scenarios where real-world data is scarce or hard to annotate.
 
+## Gallery
+
 <div class="project-gallery">
   <img src="{{ '/assets/images/projects/YOLOv8/legoDetect.png' | relative_url }}" alt="Scene 1">
   <img src="{{ '/assets/images/projects/YOLOv8/Renders.png' | relative_url }}" alt="Scene 2">

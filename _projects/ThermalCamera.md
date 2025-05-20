@@ -45,7 +45,7 @@ This project bridges hardware data interpretation and image analysis, and demons
 ## Gallery
 
 <div class="project-gallery">
-  <img src="{{ '/assets/images/projects/ThermalCamera/OverlayerImage.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/ThermalCamera/OverlayedImage.png' | relative_url }}" alt="Scene 1">
   <img src="{{ '/assets/images/projects/ThermalCamera/thermo1.png' | relative_url }}" alt="Scene 2">
   <img src="{{ '/assets/images/projects/ThermalCamera/thermo2.png' | relative_url }}" alt="Scene 3">
   <img src="{{ '/assets/images/projects/ThermalCamera/thermo3.png' | relative_url }}" alt="Scene 4">
