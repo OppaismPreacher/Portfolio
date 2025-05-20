@@ -24,3 +24,10 @@ This project helped me strengthen my skills in:
 - Procedural materials and texturing
 - Lighting and scene composition
 - Camera positioning and rendering in Blender
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/bike/Bike3D.jpg' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/bike/bikeReference.jpg' | relative_url }}" alt="Scene 2">
+</div>

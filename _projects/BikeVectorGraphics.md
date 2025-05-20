@@ -24,3 +24,10 @@ The main subject of the piece is a tandem bicycle, with each part of the bike co
 - Automatic vectorization — applied to generate the dynamic ink-splatter background
 
 This project allowed me to explore the different methods of constructing vector images and gave me hands-on experience with layering, shape composition, and color separation in vector-based design.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/bike/bike.svg' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/bike/bikeReference.jpg' | relative_url }}" alt="Scene 2">
+</div>

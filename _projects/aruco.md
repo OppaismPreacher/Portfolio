@@ -22,3 +22,10 @@ This project demonstrates an augmented reality system using ArUco markers to est
 - Processing full videos with frame-by-frame projection and bonus features like 3D axis rendering and trail visualization of marker movement.
 
 This project showcases skills in camera calibration, pose estimation, 3D transformations, and video augmentation using Python.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/aruco/AR.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/aruco/ArUco_arows.png' | relative_url }}" alt="Scene 2">
+</div>
