@@ -35,3 +35,9 @@ Key Components:
     - Built with modularity in mind — systems can be extended in C++ or Blueprint.
 
 This system is ideal for games that need flexible item storage, whether it’s for characters, shops, chests, crafting stations, or world pickups.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/inventory/inventory.png' | relative_url }}" alt="Scene 1">
+</div>

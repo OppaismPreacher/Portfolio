@@ -27,3 +27,9 @@ Features:
 
 Future Application:
 - The plugin is intended for use in a future game where players program virtual robots using Python, allowing them to control movement, perception, and behavior via code. This would create a sandbox environment combining gameplay with real programming concepts.
+
+## Gallery
+
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/PythonUE5/CppPython.png' | relative_url }}" alt="Scene 1">
+</div>
