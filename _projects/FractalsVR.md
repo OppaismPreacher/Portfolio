@@ -32,3 +32,32 @@ This project gave me hands-on experience combining:
 - Import/export workflows between Blender and Unreal
 
 It serves more as an interactive tech art installation than a traditional game, and was a great exercise in combining creative procedural visuals with immersive VR controls.
+
+## Gallery
+
+### Fractal Cannopy
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/FractalVR/Canopy.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/FractalVR/Tree_GN_Group.png' | relative_url }}" alt="Scene 2">
+  <img src="{{ '/assets/images/projects/FractalVR/Tree_GN.png' | relative_url }}" alt="Scene 3">
+</div>
+
+### 3D Snow Flake
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/FractalVR/SnowFlake.png' | relative_url }}" alt="Scene 4">
+  <img src="{{ '/assets/images/projects/FractalVR/SnowFlake_GN.png' | relative_url }}" alt="Scene 5">
+</div>
+
+### Menger sponge
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/FractalVR/Sponge.png' | relative_url }}" alt="Scene 6">
+  <img src="{{ '/assets/images/projects/FractalVR/Sponge_GN_Group.png' | relative_url }}" alt="Scene 7">
+  <img src="{{ '/assets/images/projects/FractalVR/Sponge_GN.png' | relative_url }}" alt="Scene 8">
+</div>
+
+### Mandelbrot set 3D
+<div class="project-gallery">
+  <img src="{{ '/assets/images/projects/FractalVR/Mandelbrot.png' | relative_url }}" alt="Scene 9">
+  <img src="{{ '/assets/images/projects/FractalVR/MB_GN_Group.png' | relative_url }}" alt="Scene 10">
+  <img src="{{ '/assets/images/projects/FractalVR/MB_GN.png' | relative_url }}" alt="Scene 11">
+</div>
