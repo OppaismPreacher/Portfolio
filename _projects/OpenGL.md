@@ -43,6 +43,6 @@ Key Features:
 
 
 <div class="project-gallery">
-  <img src="/assets/images/projects/OpenGL/openGL.png" alt="Scene 1">
-  <img src="/assets/images/projects/OpenGL/openGL.png" alt="Scene 2">
+  <img src="{{ '/assets/images/projects/OpenGL/openGL.png' | relative_url }}" alt="Scene 1">
+  <img src="{{ '/assets/images/projects/OpenGL/openGL.png' | relative_url }}" alt="Scene 2">
 </div>
