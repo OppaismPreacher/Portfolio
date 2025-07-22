@@ -6,7 +6,6 @@ sass:
   style: compressed
 
 header_pages:
-  - index.md
   - about.md
   - projects.md
   - contact.md
