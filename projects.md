@@ -18,6 +18,7 @@ Feel free to explore!
     <button data-filter="computer vision">Computer Vision</button>
     <button data-filter="c++">C++</button>
     <button data-filter="python">Python</button>
+    <button data-filter="java">Java</Button>
     <button data-filter="UE5">UE5</button>
     <button data-filter="blender">Blender</button>
     <button data-filter="team project">Team Projects</button>
