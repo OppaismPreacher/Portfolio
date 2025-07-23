@@ -13,6 +13,9 @@ tags:
   - javascript
 ---
 
-<img src="{{ page.image | relative_url }}" alt="PortfolioHome" class="project-hero">
-
-[Learn More](/Portfolio)
+<p>You're already looking at this project. Redirecting you to the homepage...</p>
+<script>
+  setTimeout(() => {
+    window.location.href = "/Portfolio";
+  }, 1500); 
+</script>
