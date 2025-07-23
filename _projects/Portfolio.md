@@ -15,4 +15,4 @@ tags:
 
 <img src="{{ page.image | relative_url }}" alt="PortfolioHome" class="project-hero">
 
-[Learn More](/)
+[Learn More](/Portfolio)
