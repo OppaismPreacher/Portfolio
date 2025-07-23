@@ -8,6 +8,6 @@ status: done
 priority: 0
 tags:
   - solo project
-  - html, css
+  - html-css
   - javascript
 ---
