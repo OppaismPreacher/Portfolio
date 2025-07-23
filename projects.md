@@ -19,8 +19,8 @@ Feel free to explore!
     <button data-filter="c++">C++</button>
     <button data-filter="python">Python</button>
     <button data-filter="java">Java</Button>
-      <button data-filter="html, css">Solo Projects</button>
-    <button data-filter="javascript">Solo Projects</button>
+    <button data-filter="html, css">html, css</button>
+    <button data-filter="javascript">Javascript</button>
     <button data-filter="UE5">UE5</button>
     <button data-filter="blender">Blender</button>
     <button data-filter="team project">Team Projects</button>
